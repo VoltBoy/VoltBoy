@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voltboy&label=Profile%20views&color=000000&style=flat" alt="voltboy" /> </p>
 
 <p align="center">
-  <img align="center" width="50%" src="https://i.pinimg.com/originals/38/e1/2e/38e12eb1c1ec0992f037fea7746d3a60.gif" /)
+  <img align="center" width="50%" src="https://i.pinimg.com/originals/99/e9/68/99e968b8a30bd03f702deb3f6674a901.gif" /)
 </p>
 
 - 🔭 I’m currently working on **school project**
