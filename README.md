@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm boy</h1>
+<h1 align="center">I'm boy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voltboy&label=Profile%20views&color=000000&style=flat" alt="voltboy" /> </p>
 
 <p align="center">
