@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Boy" alt="Typing SVG" />
   </a>
 </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=voltboy&label=Profile%20views&color=000000&style=flat" alt="voltboy" /> </p>
 
 <p align="center">
   <img align="center" width="100%" src="https://i.pinimg.com/originals/1b/58/68/1b5868bdf7a51f7497200523233b2829.gif" /)
