@@ -4,9 +4,11 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=voltboy&label=Profile%20views&color=000000&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/voltboy?label=Followers&style=flat&color=000000" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=voltboy&label=Views&color=000000&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/voltboy?label=Followers&style=for-the-badge&color=000000"/>
+  <img src="https://img.shields.io/github/repos/voltboy?label=Repos&style=for-the-badge&color=000000"/>
 </p>
+
 
 
 <p align="center">
