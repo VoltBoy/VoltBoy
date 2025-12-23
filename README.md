@@ -16,6 +16,9 @@
   <a href="mailto:tonemail@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://instagram.com/boy.j88">
+    <imr src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 
