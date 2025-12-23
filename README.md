@@ -1,4 +1,5 @@
-<h1 align="center">I'm boy <img align="center" width="10%" src="https://i.pinimg.com/736x/c1/c4/f6/c1c4f607632177a5dfff86e94862b3f5.jpg" /)</h1> 
+<h1 align="center">I'm boy</h1>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voltboy&label=Profile%20views&color=000000&style=flat" alt="voltboy" /> </p>
 
 <p align="center">
