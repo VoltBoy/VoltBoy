@@ -19,7 +19,26 @@
 
 - ⚡ Fun fact **Im funny**
 
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge"/>
+
+<p align="center">
+  <a href="https://twitter.com/TON_PSEUDO" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/TON_PROFIL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tonemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
