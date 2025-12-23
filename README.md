@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=voltboy&label=Views&color=000000&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/voltboy?label=Followers&style=for-the-badge&color=000000"/>
-  [<img src="https://img.shields.io/github/repos/voltboy?label=Repos&style=for-the-badge&color=000000"/>(https://img.shields.io/github/stars/voltboy?label=Stars)](https://img.shields.io/github/stars/voltboy?label=Stars)
+  <img src="https://img.shields.io/github/stars/voltboy/mon-repo?style=flat&color=000000&label=Stars" alt="stars"/>
 </p>
 
 
