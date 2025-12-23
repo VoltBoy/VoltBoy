@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **Im funny**
 
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/boy.j88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boy.j88" height="30" width="40" /></a>
