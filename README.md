@@ -5,20 +5,6 @@
   <img align="center" width="100%" src="https://i.pinimg.com/originals/1b/58/68/1b5868bdf7a51f7497200523233b2829.gif" /)
 </p>
 
-- 🔭 I’m currently working on **school project**
-
-- 🌱 I’m currently learning **C**
-
-- 👯 I’m looking to collaborate on **Web Design**
-
-- 🤝 I’m looking for help with **SCP:SL Plugin**
-
-- 💬 Ask me about **C**
-
-- 📫 How to reach me **mailto:voltboyofficiel@gmail.com**
-
-- ⚡ Fun fact **Im funny**
-
 
 <p align="center">
   <a href="https://twitter.com/TON_PSEUDO" target="_blank">
@@ -36,8 +22,19 @@
 
 
 
+- 🔭 I’m currently working on **school project**
 
+- 🌱 I’m currently learning **C**
 
+- 👯 I’m looking to collaborate on **Web Design**
+
+- 🤝 I’m looking for help with **SCP:SL Plugin**
+
+- 💬 Ask me about **C**
+
+- 📫 How to reach me **mailto:voltboyofficiel@gmail.com**
+
+- ⚡ Fun fact **Im funny**
 
 
 <h3 align="left">Connect with me:</h3>
