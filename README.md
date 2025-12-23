@@ -5,7 +5,6 @@
   <img align="center" width="100%" src="https://i.pinimg.com/originals/1b/58/68/1b5868bdf7a51f7497200523233b2829.gif" /)
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=voltboy&show_icons=true&locale=en" alt="voltboy" /></p>
 
 - 🔭 I’m currently working on **school project**
 
