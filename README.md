@@ -41,6 +41,7 @@
 
 <p align="center">
   <img align="center" width="100%" src="https://i.pinimg.com/originals/e7/99/84/e79984d122840f899033d13b9ad31404.gif" /)
+  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voltboy&theme=zenburn)
 </p>
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voltboy&theme=zenburn)
